@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="80423d99-8c82-4c88-8ed8-26ef35b8ccc9" name="Default Changelist" comment="" />
+    <list default="true" id="80423d99-8c82-4c88-8ed8-26ef35b8ccc9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Readme" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,24 +17,29 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1cH8g5NEnZyNIZGJz3AIvkCq1ks" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/css" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Web\CSS_1\CSS_1\css" />
     </key>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -48,16 +55,25 @@
       <workItem from="1591182358356" duration="5000" />
       <workItem from="1591182426396" duration="7844000" />
       <workItem from="1591615269204" duration="13000" />
+      <workItem from="1598516450103" duration="436000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="154" key="FileChooserDialogImpl" timestamp="1590404992414">
+    <state x="549" y="154" key="FileChooserDialogImpl" timestamp="1598516567629">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1590404992414" />
+    <state x="549" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1598516567629" />
+    <state x="651" y="312" key="Github.ShareDialog" timestamp="1598516698859">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="651" y="312" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1598516698859" />
+    <state x="583" y="119" key="Github.UntrackedFilesDialog" timestamp="1598516858739">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="583" y="119" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1598516858739" />
   </component>
 </project>
